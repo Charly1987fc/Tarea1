@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 1\appTablasdemultiplicar\bin\Debug\appTablasdemultiplicar.exe.config
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 1\appTablasdemultiplicar\bin\Debug\appTablasdemultiplicar.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 1\appTablasdemultiplicar\bin\Debug\appTablasdemultiplicar.pdb
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 1\appTablasdemultiplicar\obj\Debug\appTablasdemultiplicar.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 1\appTablasdemultiplicar\obj\Debug\appTablasdemultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 1\appTablasdemultiplicar\obj\Debug\appTablasdemultiplicar.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 1\appTablasdemultiplicar\obj\Debug\appTablasdemultiplicar.pdb
